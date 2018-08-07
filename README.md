@@ -1,4 +1,4 @@
-# FUSE DokuWiki
+# [FUSE DokuWiki](https://git.io/fNDtm)
 
 将 DokuWiki 的 wiki 使用 fuse 挂载到本地，然后可以使用本地编辑器编辑。
 
