@@ -7,6 +7,7 @@ dokuwiki 必须启用了 markdown 插件，并且启用了 xmlrpc 功能。
 
 ## 用法
 
+python main.py -s http://dokuwiki.com:80 -u abc -p '' ./mount-dir/
 ```
-python main.py -h
-```
+
+当指定了 `-p ''` 时，会询问密码。
